@@ -17,10 +17,8 @@
 # installing 
 
 1. Clone this git repository
-```
 
-```
-after cloning repository you need run backend and frontend separete
+
 
 ## Backend
 ```bash
